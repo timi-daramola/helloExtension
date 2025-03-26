@@ -5,7 +5,7 @@
     "description": "A simple Hello World browser extension.",
     "action": {
       "default_popup": "popup.html",
-      "default_icon": "images/icon.png"
+      "default_icon": "icon.png"
     },
     "permissions": []
   }
