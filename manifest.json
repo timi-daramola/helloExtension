@@ -8,7 +8,7 @@
       "default_icon": "icon.png"
     },
     "background": {
-    "service_worker": "script.js"
+    "service_worker": "script/background.js"
     },
     "permissions": []
   }
